@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oi, eu sou o Rafael ✌
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafaelkaze)
 
-<!--
-**RafaelKaze/rafaelkaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![RafaelKaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelkaze&theme=merko&show_icons=true)
 
-Here are some ideas to get you started:
+### Minhas ferramentas
+<div style="display: inline_block"><br/>
+ <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> 
+ <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ <img align="center" alt="Windows" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Estudante+de+engenharia+de+software)](https://git.io/typing-svg)
+
+## Contato:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://contatorafaelkaze@gmail.com)
+
+![RafaelKaze's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=rafaelkaze)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelkaze)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rafaelkaze)](https://git.io/streak-stats)
+
